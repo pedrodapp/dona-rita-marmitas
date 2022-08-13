@@ -18,12 +18,13 @@
         <input type="text" placeholder="Telefone" name="telefone">
     </div>
     <div>
-        <textarea name="mensagem" placeholder="Descreva aqui seu pedido ou mensagem" rows="9"></textarea>
+        <textarea name="mensagem" placeholder="Coloque as informações do seu pedido e entraremos em contato" rows="9"></textarea>
     </div>
     <div>
-        <button class="form-button">Enviar</button>
+        <button class="form-button">Fazer pedido</button>
     </div>
 </form>
+
 <style>
 
     .form-contact h1 {
@@ -94,9 +95,11 @@
 <?php 
     if($action == "enviar"):
 ?>
-    <div class="message">
-        <strong>Sua mensagem foi envaida com sucesso!</strong>
-        <p>Logo entraremos em contato.</p>
+    <div class="message" style="min-height: 55vh; text-align:center; align:center; margin-left:290px; margin-top:50px; margin-bottom:-150px; font-size:22px; line-height:1.7;">
+        <strong>Obrigado por pedir conosco.</strong>
+        <p>Entraremos em contato pelo seu Whatsapp!</p>
+        <br>
+        <strong>🛵🛵🛵</strong>        
     </div>
 <?php
     endif

@@ -6,8 +6,6 @@ $produtos['feijoada'] = array(
     'preco' => 28.00,
     'descricao' => 'Feijoada executiva
     <br/>
-    Pedido mínimo: 1 unidade
-    <br/>
     Ingredientes: Arroz, feijão e linguiça',
     'imagem' => 'feijoada-1.jpg'
 );
@@ -17,9 +15,7 @@ $produtos['salada' ] = array(
     'tamanho'=>'Executivo',
     'preco' => 26.00,
     'descricao' => 'Salada completa com acompanhamentos
-    <br/>
-    Pedido minimo:1 unidade
-    <br/>
+    <br/>    
     Ingredientes: Alface, rúcula, tomate, grão de bico e molho mostarda',
     'imagem' => 'salada-1.jpg'
 );
@@ -29,9 +25,7 @@ $produtos['strogonoff' ] = array(
     'tamanho'=>'Executivo',
     'preco' => 32.00,
     'descricao' => 'Strogonoff de alcatra com batata palha
-    <br/>
-    Pedido minimo:1 unidade
-    <br/>
+    <br/>    
     Ingredientes: Arroz, strogonoff, tiras de alcatra e batata palha',
    'imagem' => 'strognoff-1.jpg'
 );
@@ -41,9 +35,7 @@ $produtos['macarrao' ] = array(
     'tamanho'=>'Executivo',
     'preco' => 28.00,
     'descricao' => 'Macarrão bolonhesa com queijo ralado
-    <br/>
-    Pedido minimo:1 unidade
-    <br/>
+    <br/>    
     Ingredientes: Macarrão espaguete, molho bolonhesa e queijo ralado',
     'imagem' => 'macarrao-1.jpg'
 );
@@ -53,9 +45,7 @@ $produtos['frango' ] = array(
     'tamanho'=>'Família',
     'preco' => 48.00,
     'descricao' => 'Frango assado com batata
-    <br/>
-    Pedido minimo:1 unidade
-    <br/>
+    <br/>    
     Ingredientes: Frango assado de televisão com batata soutê',
     
     'imagem' => 'frango-1.jpg'
@@ -65,9 +55,7 @@ $produtos['churrrasco' ] = array(
     'tamanho'=>'Família',
     'preco' => 54.00,
     'descricao' => 'Churrasco completo com carne e linguiça
-    <br/>
-    Pedido minimo:1 unidade
-    <br/>
+    <br/>    
     Ingredientes: Fraldinha, alcatra, linguiça e bata frita',
     'imagem' => 'churrasco-6.jpg'
 );
