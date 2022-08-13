@@ -1,11 +1,13 @@
-💻 Projeto
+## 💻 Projeto
+
 Site Fictício para Restaurante de Marmitas.
 
-🚀 Tecnologias
+## 🚀 Tecnologias
+
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-HTML
-CSS
-PHP
+- HTML
+- CSS
+- PHP
 
-Feito com 💙 para a disciplina de Back-end-I de Sistemas para Internet
+Feito com 💙 para a disciplina de Back-end-I de Sistemas para Internet.
